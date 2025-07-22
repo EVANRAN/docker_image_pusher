@@ -1,3 +1,4 @@
 node:22-alpine3.20
 nginx:1.27.0-alpine
 mysql:8.0.38-debian
+redis:8.2-rc1-alpine
